@@ -19,3 +19,5 @@ ENV/
 .idea/
 .vscode/
 *.swp
+*.txt
+
